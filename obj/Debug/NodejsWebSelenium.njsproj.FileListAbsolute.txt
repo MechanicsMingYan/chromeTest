@@ -1,0 +1,2 @@
+C:\Users\赵今生\source\repos\ChaoJiWebCode\Project\NodejsWebSelenium\obj\Debug\NodejsWebSelenium.njsprojAssemblyReference.cache
+C:\Users\赵今生\source\repos\ChaoJiWebCode\Project\NodejsWebSelenium\bin\Microsoft.NodejsTools.WebRole.dll

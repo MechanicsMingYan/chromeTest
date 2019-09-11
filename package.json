@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-web-selenium",
+  "version": "0.0.0",
+  "description": "NodejsWebSelenium",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "chromedriver": "^76.0.1",
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  }
+}
